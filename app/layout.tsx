@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'AI Code Debug',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Created with AI Code Debug',
+  generator: 'AI Code Debug',
 }
 
 export default function RootLayout({
